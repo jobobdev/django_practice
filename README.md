@@ -1,1 +1,1 @@
-# djangowithtim
+# django practice on my own
